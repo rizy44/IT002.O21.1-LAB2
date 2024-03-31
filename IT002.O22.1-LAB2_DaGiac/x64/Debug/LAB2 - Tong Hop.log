@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LAB2 - Tong Hop.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DaGiac.cpp
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT Folder\IT002\BaiBaoCao\Lab2\LAB2 - Tong Hop\IT002.O21.1-LAB2_DaGiac\DaGiac.cpp(82,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT Folder\IT002\BaiBaoCao\Lab2\LAB2 - Tong Hop\IT002.O21.1-LAB2_DaGiac\DaGiac.cpp(83,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Diem.cpp
+  main.cpp
+  Generating Code...
+  LINK : D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT Folder\IT002\BaiBaoCao\Lab2\LAB2 - Tong Hop\x64\Debug\IT002.O21.1-LAB2_DaGiac.exe not found or not built by the last incremental link; performing full link
+  LAB2 - Tong Hop.vcxproj -> D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT Folder\IT002\BaiBaoCao\Lab2\LAB2 - Tong Hop\x64\Debug\IT002.O21.1-LAB2_DaGiac.exe
